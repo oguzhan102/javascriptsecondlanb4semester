@@ -1,0 +1,23 @@
+{
+  "name": "mysecondlabofjavascript200408710",
+  "version": "1.0.0",
+  "description": "my second lab of javascript for 4th semester",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example-node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhan102/javascriptsecondlab.git"
+  },
+  "author": "Turgut Oguzhan Kucukoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhan102/javascriptsecondlab/issues"
+  },
+  "homepage": "https://github.com/oguzhan102/javascriptsecondlab#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
